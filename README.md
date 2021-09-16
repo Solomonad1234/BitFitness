@@ -14,6 +14,7 @@ Lastly, **Bit Fitness** has a _Contact Us_ page if the visitor has any questions
 
 ## Demo
 
+![bitfitness gif](https://user-images.githubusercontent.com/83429213/133700881-29a3a80f-0f6a-481d-8b81-685ac6cf2873.gif)
 
 
 
